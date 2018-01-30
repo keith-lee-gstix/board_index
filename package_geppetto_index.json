@@ -16,7 +16,7 @@
         "size": "20633", 
         "version": "0.0.1", 
         "category": "Contributed", 
-        "archiveFilename": "geppetto-0.0.1.zip", 
+        "archiveFileName": "geppetto-0.0.1.zip", 
         "help": {"online": "mailto:autobsp@gumstix.com"}, 
         "name": "Strata_analog_header_gdt_test", 
         "toolsDependencies": [
