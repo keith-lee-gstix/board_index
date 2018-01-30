@@ -23,8 +23,8 @@
           "size": "20681", 
           "category": "Contributed", 
           "help": {"online": "mailto:autobsp@gumstix.com"}, 
-          "boards": [{"name": "Strata_analog_header_gdt_test"}], 
-          "name": "Strata_analog_header_gdt_test", 
+          "boards": [{"name": "strata_analog_header_gdt_test"}], 
+          "name": "strata_analog_header_gdt_test", 
           "archiveFileName": "geppetto-0.0.1.zip"
         }
       ], 
