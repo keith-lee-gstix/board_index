@@ -1,39 +1,38 @@
 {
-"packages": [
+  "packages": [
     {
-    "tools": [], 
-    "email": "autobsp@gumstix.com", 
-    "help": {"online": "mailto:autobsp@gumstix.com"}, 
-    "websiteURL": "https://www.gumstix.com", 
-    "maintainer": "Gumstix, Inc.", 
-    "name": "strata_analog_header_gdt_test-arduino-bsp", 
-    "platforms": [
+      "email": "autobsp@gumstix.com", 
+      "platforms": [
         {
-        "url": "https://github.com/keith-lee-gstix/board_index/raw/master/geppetto-0.0.1.zip", 
-        "boards": [{"name": "Strata_analog_header_gdt_test"}], 
-        "architecture": "avr", 
-        "checksum": "SHA-256:26804ab8f9f3239b6ce690bdedc4ef0eb30fc2a22a7eedeb8fa308405aea7a59", 
-        "size": "20633", 
-        "version": "0.0.1", 
-        "category": "Contributed", 
-        "archiveFileName": "geppetto-0.0.1.zip", 
-        "help": {"online": "mailto:autobsp@gumstix.com"}, 
-        "name": "Strata_analog_header_gdt_test", 
-        "toolsDependencies": [
+          "url": "https://github.com/keith-lee-gstix/board_index/raw/master/geppetto-0.0.1.zip", 
+          "toolsDependencies": [
             {
-            "packager": "arduino", 
-            "version": "4.8.1-arduino5",
-             "name": 
-             "avr-gcc"
-             }, 
-             {
-             "packager": "arduino", 
-             "version": "6.0.1-arduino5", 
-             "name": "avrdude"
-             }
-         ]
+              "packager": "arduino", 
+              "name": "avr-gcc", 
+              "version": "4.8.1-arduino5"
+            }, 
+            {
+              "packager": "arduino", 
+              "name": "avrdude", 
+              "version": "6.0.1-arduino5"
+            }
+          ], 
+          "architecture": "avr", 
+          "version": "1.0.0", 
+          "checksum": "SHA-256:c35646f1779bc8f34bd6a75eceadf00f4ab71c58e2066b806957ca496462111f", 
+          "size": "20681", 
+          "category": "Contributed", 
+          "help": {"online": "mailto:autobsp@gumstix.com"}, 
+          "boards": [{"name": "Strata_analog_header_gdt_test"}], 
+          "name": "Strata_analog_header_gdt_test", 
+          "archiveFileName": "geppetto-0.0.1.zip"
         }
-        ]
+      ], 
+      "tools": [], 
+      "maintainer": "Gumstix, Inc.", 
+      "websiteURL": "https://www.gumstix.com", 
+      "name": "strata_analog_header_gdt_test-arduino-bsp", 
+      "help": {"online": "mailto:autobsp@gumstix.com"}
     }
-    ]
+  ]
 }
