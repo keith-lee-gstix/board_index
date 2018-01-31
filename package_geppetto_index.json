@@ -1,38 +1,38 @@
 {
-    "packages": [
-        {
-            "name": "strata_analog_header_gdt_test-arduino-bsp", 
-            "help": {"online": "mailto:autobsp@gumstix.com"}, 
-            "email": "autobsp@gumstix.com", 
-            "websiteURL": "https://www.gumstix.com", 
-            "platforms": [
-                {
-                    "architecture": "avr",
-                     "name": "strata_analog_header_gdt_test",
-                     "help": {"online": "mailto:autobsp@gumstix.com"}, 
-                     "checksum": "SHA-256:0d8c3bb8a3547c005b209c33fea6308a1066be7144214230418e1972e81858ec", 
-                     "category": "Contributed", 
-                     "size": "20144", 
-                     "url": "https://github.com/keith-lee-gstix/board_index/raw/master/strata_analog_header_gdt_test.zip",
-                     "toolsDependencies": [
-                        {
-                            "packager": "arduino", 
-                            "version": "4.8.1-arduino5", 
-                            "name": "avr-gcc"
-                        }, 
-                        {
-                            "packager": "arduino", 
-                            "version": "6.0.1-arduino5", 
-                            "name": "avrdude"
-                        }
-                    ], 
-                    "boards": [{"name": "strata_analog_header_gdt_test"}], 
-                    "version": "1.0.0", 
-                    "archiveFileName": "strata_analog_header_gdt_test.zip"
-                }
-            ], 
-            "maintainer": "Gumstix, Inc.", 
-            "tools": []
-        }
-    ]
+	"packages": [
+		{
+			"tools": [], 
+			"websiteURL": "https://www.gumstix.com", 
+			"email": "autobsp@gumstix.com", 
+			"help": {"online": "mailto:autobsp@gumstix.com"}, 
+			"maintainer": "Gumstix, Inc.", 
+			"platforms": [
+				{
+					"url": "https://github.com/keith-lee-gstix/board_index/raw/master/strata_analog_header_gdt_test.zip", 
+					"toolsDependencies": [
+						{
+							"packager": "arduino", 
+						  "version": "4.8.1-arduino5", 
+						  "name": "avr-gcc"
+						}, 
+					  {
+					  	"packager": "arduino", 
+					    "version": "6.0.1-arduino5", 
+					    "name": "avrdude"
+					  }
+					], 
+					"size": "20205", 
+					"boards": [{"name": "strata_analog_header_gdt_test"}], 
+					"checksum": "SHA-256:535f687dab20d047ba5c551b18fefceffa0fe4fcd46120ec8c33c4524dc90cb5", 
+					"help": {"online": "mailto:autobsp@gumstix.com"}, 
+				  "architecture": "avr", 
+				  "archiveFileName": "strata_analog_header_gdt_test.zip", 
+				  "version": "1.0.0", 
+				  "name": "strata_analog_header_gdt_test", 
+				  "category": "Contributed"
+				}
+			], 
+		  "name": "strata_analog_header_gdt_test-arduino-bsp"
+		}
+	]
 }
