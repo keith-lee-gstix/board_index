@@ -31,10 +31,7 @@
 				  "name": "strata_analog_header_gdt_test", 
 				  "category": "Contributed"
 				}
-			], 
-		  "name": "strata_analog_header_gdt_test-arduino-bsp"
-		},
-		{
+				{
           "archiveFileName": "roomsense-w-gpio.zip", 
           "name": "roomsense-w-gpio", 
           "version": "1.0.0", 
@@ -79,11 +76,7 @@
           "boards": [{"name": "roomsense w gpio"}]
         }
       ], 
-      "maintainer": "Gumstix, Inc.", 
-      "email": "autobsp@gumstix.com", 
-      "help": {"online": "mailto:autobsp@gumstix.com"}, 
-      "tools": [], 
-      "websiteURL": "https://www.gumstix.com"
-    }
+		  "name": "strata_analog_header_gdt_test-arduino-bsp"
+		}
 	]
 }
