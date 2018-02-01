@@ -30,7 +30,7 @@
 				  "version": "1.0.0", 
 				  "name": "strata_analog_header_gdt_test", 
 				  "category": "Contributed"
-				}
+				},
 				{
           "archiveFileName": "roomsense-w-gpio.zip", 
           "name": "roomsense-w-gpio", 
