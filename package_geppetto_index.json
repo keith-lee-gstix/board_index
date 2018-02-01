@@ -36,7 +36,7 @@
           "name": "roomsense-w-gpio", 
           "version": "1.0.0", 
           "category": "Contributed", 
-          "size": "30455", 
+          "size": "30828", 
           "help": {"online": "mailto:autobsp@gumstix.com"}, 
           "architecture": "samd", 
           "toolsDependencies": [
@@ -71,7 +71,7 @@
               "version": "1.2.0"
             }
           ], 
-          "checksum": "SHA-256:e6b40c481e9623821069694ecc2ad51c9fa2f0ec061d6e395dbec7143a1d6b24", 
+          "checksum": "SHA-256:edd2c7ecc5aa0f185540b80b301301736102d03c6197edb706d18b3bda068564", 
           "url": "https://github.com/keith-lee-gstix/board_index/raw/master/roomsense-w-gpio.zip", 
           "boards": [{"name": "roomsense w gpio"}]
         }
