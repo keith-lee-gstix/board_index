@@ -32,7 +32,7 @@
 				  "category": "Contributed"
 				},
 				{
-          "size": "19386", 
+          "size": "32913", 
           "help": {"online": "mailto:autobsp@gumstix.com"}, 
           "archiveFileName": "roomsense-w-gpio.zip", 
           "toolsDependencies": [
@@ -70,7 +70,7 @@
           ], 
           "architecture": "samd", 
           "boards": [{"name": "roomsense w gpio"}], 
-          "checksum": "SHA-256:6768039e79e60e4c851f373c2387d7c051434eab748872fc02b8e6763cb582eb", 
+          "checksum": "SHA-256:10a05e02d883ef42b127dff17fde2d8aa9d55a988673e2536ada8a82ebe7d4e5", 
           "version": "1.0.0", 
           "name": "roomsense-w-gpio", 
           "category": "Contributed", 
