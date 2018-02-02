@@ -32,48 +32,49 @@
 				  "category": "Contributed"
 				},
 				{
-          "archiveFileName": "roomsense-w-gpio.zip", 
-          "name": "roomsense-w-gpio", 
-          "version": "1.0.0", 
-          "category": "Contributed", 
-          "size": "30828", 
+          "size": "19386", 
           "help": {"online": "mailto:autobsp@gumstix.com"}, 
-          "architecture": "samd", 
+          "archiveFileName": "roomsense-w-gpio.zip", 
           "toolsDependencies": [
             {
-              "name": "arm-none-eabi-gcc", 
               "packager": "arduino", 
-              "version": "4.8.3-2014q1"
+              "version": "4.8.3-2014q1", 
+              "name": "arm-none-eabi-gcc"
             }, 
             {
-              "name": "bossac", 
               "packager": "arduino", 
-              "version": "1.7.0"
+              "version": "1.7.0", 
+              "name": "bossac"
             }, 
             {
-              "name": "openocd", 
               "packager": "arduino", 
-              "version": "0.9.0-arduino6-static"
+              "version": "0.9.0-arduino6-static", 
+              "name": "openocd"
             }, 
             {
-              "name": "CMSIS", 
               "packager": "arduino", 
-              "version": "4.5.0"
+              "version": "4.5.0", 
+              "name": 
+              "CMSIS"
             }, 
             {
-              "name": "CMSIS-Atmel", 
               "packager": "arduino", 
-              "version": "1.1.0"
+              "version": "1.1.0", 
+              "name": "CMSIS-Atmel"
             }, 
             {
-              "name": "arduinoOTA", 
               "packager": "arduino", 
-              "version": "1.2.0"
+              "version": "1.2.0", 
+              "name": "arduinoOTA"
             }
           ], 
-          "checksum": "SHA-256:edd2c7ecc5aa0f185540b80b301301736102d03c6197edb706d18b3bda068564", 
-          "url": "https://github.com/keith-lee-gstix/board_index/raw/master/roomsense-w-gpio.zip", 
-          "boards": [{"name": "roomsense w gpio"}]
+          "architecture": "samd", 
+          "boards": [{"name": "roomsense w gpio"}], 
+          "checksum": "SHA-256:6768039e79e60e4c851f373c2387d7c051434eab748872fc02b8e6763cb582eb", 
+          "version": "1.0.0", 
+          "name": "roomsense-w-gpio", 
+          "category": "Contributed", 
+          "url": "https://github.com/keith-lee-gstix/board_index/raw/master/roomsense-w-gpio.zip"
         }
       ], 
 		  "name": "strata_analog_header_gdt_test-arduino-bsp"
